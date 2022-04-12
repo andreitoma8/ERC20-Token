@@ -49,6 +49,7 @@ To deploy to any other network change rinkeby in the command with the name of th
 ```
 brownie run scripts/deploy.py --network [network name]
 ```
+and your `WEB3_INFURA_PROJECT_ID` in the `.env` file with a Project Id for that network.
 
 ##### Any feedback is much apreciated! 
 ##### If this was helpful please consider donating: 
