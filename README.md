@@ -1,7 +1,7 @@
 # ERC20 Smart Contract.
 #### Deploy your own ERC20 Token easily!
 
-Created using [OpenZeppelin](https://openzeppelin.com/)'s [ERC20](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/ERC20.sol) and it's extensions Smart Contracts.
+Created using [OpenZeppelin](https://openzeppelin.com/)'s [ERC20](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/ERC20.sol) and its extensions Smart Contracts.
 
 ### Features:
 
